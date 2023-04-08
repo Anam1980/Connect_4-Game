@@ -5,7 +5,7 @@
 
 ## ScreenShot➡️
 
-[Screenshot of Connect 4 game](./connect4/connect4.png)
+![Screenshot of Connect 4 game](./connect4.png);
 
 ## How To Play➡️
 * To play the game, each player takes turns placing their pieces on the board by clicking on the desired column. The pieces will drop down to the lowest available space in that column.
